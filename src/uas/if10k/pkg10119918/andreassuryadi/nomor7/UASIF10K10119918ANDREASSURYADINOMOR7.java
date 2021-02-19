@@ -7,7 +7,11 @@ package uas.if10k.pkg10119918.andreassuryadi.nomor7;
 
 /**
  *
- * @author andreas
+ * @author
+ * NIM : 10119918
+ * Nama : Andreas Suryadi
+ * Kelas :IF-10K
+ * 
  */
 public class UASIF10K10119918ANDREASSURYADINOMOR7 {
 

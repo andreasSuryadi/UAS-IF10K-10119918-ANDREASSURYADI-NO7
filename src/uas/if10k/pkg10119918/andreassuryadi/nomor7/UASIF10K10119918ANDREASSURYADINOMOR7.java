@@ -11,6 +11,8 @@ package uas.if10k.pkg10119918.andreassuryadi.nomor7;
  * NIM : 10119918
  * Nama : Andreas Suryadi
  * Kelas :IF-10K
+ * Tanggal : Jumat, 19 Februari 2021
+ * Nomor Soal : 7
  * 
  */
 public class UASIF10K10119918ANDREASSURYADINOMOR7 {
